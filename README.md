@@ -1,5 +1,5 @@
 # 💫 Hi, I am Ishaan Samel
-👦 I'm currently pursuing my Master's in Information Systems at Northeastern University<br>👨‍💻 Data Engineer by profession<br>🌱 I'm learning to build strong core software engineering skills<br>✉️ Reach out to me: ishaansamel10@gmail.com
+👦 I'm currently pursuing my Master's in Information Systems at Northeastern University<br>👨‍💻 Data Engineer by profession<br>🌱 I'm learning to build strong core software engineering skills<br>✉️ Reach out to me: samel.i@northeastern.edu
 
 
 ## 🌐 Socials:
